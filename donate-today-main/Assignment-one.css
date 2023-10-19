@@ -1,0 +1,209 @@
+*{
+margin: 0%;
+padding: 0%;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+   
+}
+.sec-para{
+    width: 100%;
+    height: 700px;
+    color: white;
+    text-align: center;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(images/donation6.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.funding{
+    font-weight: 600;
+    font-size: 70px;
+}
+.otherAmountInput{
+    border: none;
+    margin-top: 50px;
+    margin-left: 25px;
+}
+.sec-para h1{
+    padding-top: 150px;
+    word-spacing: 2px;
+}
+.sec-para p{
+    
+    font-size: 22px;
+    word-spacing: 1px
+}
+
+.donateButton1{
+    background-image: linear-gradient(green,black);
+    border-radius: 10px;
+    padding: 15px 30px;
+    margin: 10px 600px 20px 600px;
+    color: antiquewhite;
+    text-decoration: none;
+    border: none;
+    
+}
+.sec-para2{
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+.donation-head{
+    font-weight: 600;
+    font-size: 50px;
+}
+.donation{
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+    
+
+}
+.donation-div{
+    padding: 30px;
+    border-radius: 5px;
+    background-color:rgb(184,184,184);
+    margin-left: 30px;
+    margin-top: 4px;
+    margin-bottom: 0px;
+    margin-right: 5px;
+    
+}
+#special-div{
+    background-color: #ffc2b3;
+    border: 2px solid #ff3300;
+    padding: 30px;
+    border-radius: 5px;
+    margin-left: 30px;
+    margin-top: 4px;
+    margin-bottom: 0px;
+    margin-right: 5px;
+    color: #801a00;
+}
+
+.hr{
+    margin-top: 1%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.sec-para3{
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+.donate-plan{
+    text-align: center;
+    font-weight: 600;
+    font-size: 50px;
+
+}
+
+.text-align{
+    text-align: center;
+}
+
+.sec-para3-div{
+    display: flex;
+    margin-top: 5%;
+}
+
+#para3-div1{
+  margin-left: 15%;
+  margin-right: 10px;
+  padding: 50px 20px;
+  background-color: #b3ffe0;
+  
+}
+
+#para3-div2{
+    margin-right: 10px;
+    margin-left: 10px;
+    padding: 50px 20px;
+    background-color: #bbff99;
+}
+
+#para3-div3{
+    margin-right: 15%;
+    margin-left: 10px;
+    padding: 50px 20px;
+    background-color: #ffff99;
+}
+.donation-head2{
+    text-align: center;
+    font-weight: 600;
+    font-size: 50px;
+
+}
+#mini-css{
+    text-align: center;
+}
+.section4{
+    margin-top: 2%;
+}
+.sec4-div1{
+    background-color: #ffb3b3;
+    margin: 3% 25%;
+    padding: 5% 5%;
+}
+.sec4-input{
+    background-color: darkgray;
+    border: none;
+    padding: 1%;
+    border-radius: 5px;
+    margin-left: 28%;
+
+}
+.sec4-button{
+    background-image: linear-gradient(green,black);
+    border: none;
+    color: white;
+    padding: 1%;
+    border-radius: 5px;
+    
+
+}
+.section5{
+    display: flex;
+}
+.sec5-div2{
+    width: 50%;
+    text-align: center;
+    margin-top: 6%;
+    margin-left: 20%;
+}
+.sec5-div3{
+    width: 50%;
+    text-align: center;
+    margin-right: 14%;
+}
+.sec5-div2 button{
+    background-image: linear-gradient(green,black);
+    border-radius: 10px;
+    padding: 15px 30px;
+    color: antiquewhite;
+    text-decoration: none;
+    border: none;
+    margin-top: 1%;
+}
+
+
+.sec5-img{
+    height: 400px;
+    width:350px
+    
+}
+.footer-div{
+    text-align: center;
+    background-color: black;
+    padding: 5%;
+}
+#footer-h3{
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    color: #ff3300;
+}
+#footer-p{
+    color: white;
+}
